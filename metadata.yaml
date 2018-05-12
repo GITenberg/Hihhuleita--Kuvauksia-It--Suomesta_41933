@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41272
     wikipedia: http://fi.wikipedia.org/wiki/Johan_Jacob_Ahrenberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41933#Hihhuleita--Kuvauksia-It--Suomesta
 gutenberg_issued: '2013-01-27'
 gutenberg_type: Text
 identifiers:
